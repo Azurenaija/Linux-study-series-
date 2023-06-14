@@ -1,2 +1,2 @@
-# Linux-study-series-
+# Linux-study-series
 This is a weekly study series 
